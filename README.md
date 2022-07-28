@@ -2,9 +2,6 @@
 
 1. Sarlavha: Bank marketingi (ijtimoiy/iqtisodiy)
    
-
-
-   Kirish o'zgaruvchilari:
    # bank mijozi maʼlumotlari:
    1 - yosh (raqamli)
    2 - ish : ish turi (toifali: "admin.", "ko'k yoqalar", "tadbirkor", "uy xizmatchisi", "boshqaruv", "nafaqadagi", "yakka tartibdagi tadbirkor", "xizmatlar", "talaba" ,"texnik","ishsiz","noma'lum")
