@@ -1,13 +1,6 @@
 # Kredit_berishni_bashorat_qilish
 
 1. Sarlavha: Bank marketingi (ijtimoiy/iqtisodiy)
- 
-2. Tegishli ma'lumotlar:
-
-   Bu maʼlumotlar toʻplami “Bank Marketing” UCI maʼlumotlar toʻplamiga asoslangan (tavsifni http://archive.ics.uci.edu/ml/datasets/Bank+Marketing manzilida tekshiring).
-   Ma'lumotlar Banco de Portugal tomonidan e'lon qilingan va https://www.bportugal.pt/estatisticasweb saytida ommaga ochiq bo'lgan beshta yangi ijtimoiy va iqtisodiy xususiyat/atributlar (~10 million aholiga ega mamlakat bo'yicha milliy ko'rsatkichlar) qo'shilishi bilan boyitilgan. .
-   Bu maʼlumotlar toʻplami [Moro va boshq., 2014] da ishlatilgan maʼlumotlar toʻplami bilan deyarli bir xil (maxfiylik bilan bogʻliq muammolar tufayli u barcha atributlarni oʻz ichiga olmaydi). 
-   Rminer to'plami va R vositasidan (http://cran.r-project.org/web/packages/rminer/) foydalanib, biz beshta yangi ijtimoiy va iqtisodiy atributlarning qo'shilishi (bu erda mavjud) sezilarli yaxshilanishga olib kelishini aniqladik. muvaffaqiyatni bashorat qilishda, hatto qo'ng'iroqning davomiyligi kiritilmagan bo'lsa ham. Eslatma: faylni R tilida o'qish mumkin: d=read.table("bank-additional-full.csv",header=TRUE,sep=";")
    
    Zip fayl ikkita ma'lumotlar to'plamini o'z ichiga oladi: 
       1) barcha misollar bilan bank-additional-full.csv, sana bo'yicha tartiblangan (2008 yil mayidan 2010 yil noyabrigacha).
