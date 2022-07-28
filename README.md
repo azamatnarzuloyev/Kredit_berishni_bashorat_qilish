@@ -2,20 +2,7 @@
 
 1. Sarlavha: Bank marketingi (ijtimoiy/iqtisodiy)
    
-   Zip fayl ikkita ma'lumotlar to'plamini o'z ichiga oladi: 
-      1) barcha misollar bilan bank-additional-full.csv, sana bo'yicha tartiblangan (2008 yil mayidan 2010 yil noyabrigacha).
-      2) bank-additional.csv 10% misollar bilan (4119), bank-additional-full.csv dan tasodifiy tanlangan.
-   Eng kichik ma'lumotlar to'plami ko'proq hisoblash talab qiladigan mashinani o'rganish algoritmlarini (masalan, SVM) sinab ko'rish uchun taqdim etiladi.
 
-   Ikkilik tasniflash maqsadi mijozning bank muddatli depozitiga obuna bo'lishini bashorat qilishdir (y o'zgaruvchisi).
-
-3. Namunalar soni: bank-additional-full.csv uchun 41188
-
-4. Atributlar soni: 20 + chiqish atributi.
-
-5. Atribut haqida ma'lumot:
-
-   Qo'shimcha ma'lumot olish uchun [Moro va boshq., 2014] o'qing.
 
    Kirish o'zgaruvchilari:
    # bank mijozi maʼlumotlari:
